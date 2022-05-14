@@ -1,0 +1,46 @@
+.Main {
+    background-color: #fff7ed;
+    height: 100vh;
+    padding: 50px calc(50% - 660px);
+}
+
+/* Input Start */
+
+.InputContainer {
+    display: flex;
+    height: 50px;
+    border-radius: 12px;
+    box-shadow: 3px 3px 12px 1px rgba(0, 0, 0, 0.25);
+    margin-bottom: 40px;
+}
+
+.Input {
+    width: 80%;
+    padding: 4px 20px;
+    border-radius: 12px 0 0 12px;
+    font-size: 18px;
+    color: #373737;
+    border: none;
+    outline: none;
+}
+
+.Button {
+    width: 20%;
+    cursor: pointer;
+    border-radius: 0 12px 12px 0;
+    color: #373737;
+    background-color: #fff;
+    border: none;
+    outline: none;
+    font-size: 18px;
+}
+
+/* Input Finish */
+
+/* Card Start */
+
+.CardList {
+    display: flex;
+}
+
+/* Card Finish */
